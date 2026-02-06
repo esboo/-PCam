@@ -53,7 +53,7 @@ Note: You may need a virtual camera driver installed on your OS (like OBS Virtua
 `    python pcam_client.py
     `
     
-If you want to run this via USB Mode - You can edit the python script by changing the IP address into `localhost`. Ensure that USB debuggin is turned on in developer options. After that, type
+If you want to run this via USB Mode - You can edit the python script by changing the IP address into `localhost`. Ensure that USB debugging is enabled in Developer Options. After that, type
 
 `adb devices` - if you can see you device then type this next
 
@@ -85,3 +85,5 @@ Developed with ❤️ by ecaeca07 via vibe coding.
 And this isn't possible without the help of Android CameraX - a Jetpack support library that simplifies camera app development by providing a consistent API across most Android 5.0+ devices.
 
 Turn your phone into the ultimate workstation tool.
+
+By the way, I vibe-coded this app because I don't want to purchase paid products like DroidCam or Iriun.
